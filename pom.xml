@@ -59,7 +59,7 @@
             <dependency>
                 <groupId>org.openmrs.module</groupId>
                 <artifactId>muzima-omod</artifactId>
-                <version>${muzimaVersion}</version>
+                <version>1.0.1-SNAPSHOT</version>
                 <scope>provided</scope>
             </dependency>
             <dependency>
